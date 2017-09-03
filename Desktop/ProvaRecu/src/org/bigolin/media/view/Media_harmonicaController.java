@@ -15,6 +15,7 @@ import javafx.scene.control.ListView;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
+import javafx.scene.image.ImageView;
 import org.bigolin.media.model.ItemMedia;
 import org.bigolin.media.model.MediaHarmonicaCalculator;
 
@@ -51,6 +52,24 @@ public class Media_harmonicaController implements Initializable {
 
     
     private MediaHarmonicaCalculator mc = new MediaHarmonicaCalculator();
+    @FXML
+    private ImageView giphy1;
+    @FXML
+    private ImageView giphy2;
+    @FXML
+    private ImageView giphy3;
+    @FXML
+    private ImageView giphy4;
+    @FXML
+    private ImageView giphy5;
+    @FXML
+    private ImageView giphy6;
+    @FXML
+    private ImageView giphy7;
+    @FXML
+    private ImageView giphy8;
+    @FXML
+    private ImageView giphy9;
     //Inicializa tudoooo
     @Override
     public void initialize(URL url, ResourceBundle rb) {

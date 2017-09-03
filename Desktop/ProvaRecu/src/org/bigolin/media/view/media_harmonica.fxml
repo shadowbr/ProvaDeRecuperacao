@@ -17,47 +17,47 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.bigolin.media.view.Media_harmonicaController">
    <children>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutX="-3.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy1" fitHeight="154.0" fitWidth="234.0" layoutX="-3.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutX="189.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy2" fitHeight="154.0" fitWidth="234.0" layoutX="189.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="222.0" layoutX="388.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy3" fitHeight="154.0" fitWidth="222.0" layoutX="388.0" layoutY="261.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutX="367.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy4" fitHeight="154.0" fitWidth="234.0" layoutX="367.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy5" fitHeight="154.0" fitWidth="234.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutX="179.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy6" fitHeight="154.0" fitWidth="234.0" layoutX="179.0" layoutY="131.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy7" fitHeight="154.0" fitWidth="234.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="234.0" layoutX="179.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy8" fitHeight="154.0" fitWidth="234.0" layoutX="179.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
       </ImageView>
-      <ImageView fitHeight="154.0" fitWidth="222.0" layoutX="378.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="giphy9" fitHeight="154.0" fitWidth="222.0" layoutX="378.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagens/giphy-downsized%20(1).gif" />
          </image>
